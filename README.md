@@ -16,7 +16,7 @@ Desenvolva uma aplicação web utilizando React e Leaflet que exiba um mapa inte
 * O código deve ser organizado e limpo, seguindo as boas práticas de desenvolvimento.
 
 ## Backend 
-  Desenvolva uma REST API que sirva os casos de uso da aplicação frontend
+  Desenvolva uma REST API em nodejs ou python que sirva os casos de uso da aplicação frontend
 ### Requisitos:
 * Endpoints:
   * Para cadastro de usuários(nome,email,senha)
