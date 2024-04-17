@@ -38,6 +38,8 @@ Desenvolva uma aplicação web utilizando React e Leaflet que exiba um mapa inte
 ### Dúvidas
 Em caso de dúvida abra um issue no repositório do desafio e atribuia a @chipskein e/ou @PatrickFS18
 
+[exemplo-de-duvida](https://github.com/siapesq/desafio-siapesq-estagio-2024-1/issues/2)
+
 
 
 
