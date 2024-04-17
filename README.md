@@ -31,13 +31,10 @@ Desenvolva uma aplicação web utilizando React e Leaflet que exiba um mapa inte
 ### Entrega
   Faça uma fork desse projeto e criei uma branch com o seu nome e sobrenome(exemplo: patrick-souza)
   **lembre-se de colocar um readme.md explicando como rodar o projeto** 
+  Siga o padrão do **[EXEMPLO]**(https://github.com/PatrickFS18/desafio-siapesq-estagio-2024-1)
   
 ### Dúvidas
-Em caso de dúvida entre em contato por chipskein.dev@gmail.com ou patrick.fs.dev@gmail.com
-
-
-
-
+Em caso de dúvida abra um issue no repositório do desafio
 
 
 
