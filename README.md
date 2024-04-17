@@ -6,7 +6,7 @@ Prazo: 02/05/2024
 Desenvolva uma aplicação web utilizando React e Leaflet que exiba um mapa interativo com marcadores de diferentes locais. Cada marcador deve exibir um popup contendo informações sobre o local, como nome, descrição e as coordenadas.
 
 ### Requisitos:
-
+ 
 * A aplicação deve ser desenvolvida utilizando React e Leaflet.
 * É necessário ter uma tela para cadastrar usuário e uma tela de login
 * O mapa só pode ser acessado aṕos o usuario fazer o login
