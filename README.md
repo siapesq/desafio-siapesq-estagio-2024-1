@@ -1,6 +1,6 @@
 # desafio-siapesq-estagio-2024-1
 
-Prazo: 02/05/2024
+Prazo: 2 semanas
 ## Frontend
 
 Desenvolva uma aplicação web utilizando React e Leaflet que exiba um mapa interativo com marcadores de diferentes locais. Cada marcador deve exibir um popup contendo informações sobre o local, como nome, descrição e as coordenadas.
